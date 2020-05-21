@@ -49,11 +49,9 @@
                                     </view>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstItem="ehj-bf-UIX" firstAttribute="width" secondItem="iho-yK-O9r" secondAttribute="width" id="7Sf-A0-7zb"/>
+                                    <constraint firstItem="ehj-bf-UIX" firstAttribute="height" secondItem="B4b-vG-F5b" secondAttribute="height" id="3Mn-OG-vhI"/>
                                     <constraint firstAttribute="width" constant="125" id="8Fe-j9-SvM"/>
-                                    <constraint firstItem="iho-yK-O9r" firstAttribute="height" secondItem="B4b-vG-F5b" secondAttribute="height" id="AoG-Fm-XQD"/>
-                                    <constraint firstItem="ehj-bf-UIX" firstAttribute="height" secondItem="iho-yK-O9r" secondAttribute="height" id="Za5-ad-MsL"/>
-                                    <constraint firstItem="iho-yK-O9r" firstAttribute="width" secondItem="B4b-vG-F5b" secondAttribute="width" id="e9l-oR-9zn"/>
+                                    <constraint firstItem="iho-yK-O9r" firstAttribute="height" secondItem="B4b-vG-F5b" secondAttribute="height" id="E8n-o2-2ZZ"/>
                                 </constraints>
                             </stackView>
                         </subviews>
